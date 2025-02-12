@@ -1,0 +1,430 @@
+{
+  "topics": [
+    {
+      "topicTitle": "basic greetings",
+      "isTable": "true",
+      "topicCount": "18",
+      "topicSections": "3",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12]
+      }
+    },
+    {
+      "topicTitle": "other greetings",
+      "isTable": "true",
+      "topicCount": "26",
+      "topicSections": "3",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14]
+      }
+    },
+    {
+      "topicTitle": "kitchen",
+      "topicCount": "32",
+      "topicSections": "4",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31]
+      }
+    },
+    {
+      "topicTitle": "dining room",
+      "topicCount": "19",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18]
+      }
+    },
+    {
+      "topicTitle": "living room",
+      "topicCount": "15",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14]
+      }
+    },
+    {
+      "topicTitle": "bedroom",
+      "topicCount": "22",
+      "topicSections": "3",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21]
+      }
+    },
+    {
+      "topicTitle": "outdoors",
+      "topicCount": "45",
+      "topicSections": "5",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21]
+      }
+    },
+    {
+      "topicTitle": "house",
+      "topicCount": "18",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17]
+      }
+    },
+    {
+      "topicTitle": "bathroom",
+      "topicCount": "21",
+      "topicSections": "3",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20]
+      }
+    },
+    {
+      "topicTitle": "clothing",
+      "topicCount": "12",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11]
+      }
+    },
+    {
+      "topicTitle": "animals",
+      "topicCount": "37",
+      "topicSections": "4",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36]
+      }
+    },
+    {
+      "topicTitle": "pets",
+      "topicCount": "3",
+      "topicSections": "1",
+      "indices": { "section 1": [0, 1, 2] }
+    },
+    {
+      "topicTitle": "forest",
+      "topicCount": "15",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14]
+      }
+    },
+    {
+      "topicTitle": "jungle",
+      "topicCount": "18",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17]
+      }
+    },
+    {
+      "topicTitle": "zoo",
+      "topicCount": "25",
+      "topicSections": "3",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24]
+      }
+    },
+    {
+      "topicTitle": "savanna",
+      "topicCount": "11",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10]
+      }
+    },
+    {
+      "topicTitle": "numbers",
+      "topicCount": "43",
+      "topicSections": "5",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36, 37, 38, 39],
+        "section 9": [40, 41, 42]
+      }
+    },
+    {
+      "topicTitle": "math",
+      "topicCount": "47",
+      "topicSections": "5",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36, 37, 38, 39],
+        "section 9": [40, 41, 42, 43, 44],
+        "section 10": [45, 46]
+      }
+    },
+    {
+      "topicTitle": "food",
+      "topicCount": "55",
+      "topicSections": "6",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36, 37, 38, 39],
+        "section 9": [40, 41, 42, 43, 44],
+        "section 10": [45, 46, 47, 48, 49],
+        "section 11": [50, 51, 52, 53, 54]
+      }
+    },
+    {
+      "topicTitle": "beverages",
+      "topicCount": "17",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16]
+      }
+    },
+    {
+      "topicTitle": "verbs",
+      "topicCount": "10",
+      "topicSections": "1",
+      "indices": { "section 1": [0, 1, 2, 3, 4], "section 2": [5, 6, 7, 8, 9] }
+    },
+    {
+      "topicTitle": "fruits",
+      "topicCount": "15",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14]
+      }
+    },
+    {
+      "topicTitle": "vegetables",
+      "topicCount": "11",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10]
+      }
+    },
+    {
+      "topicTitle": "meat ",
+      "topicCount": "15",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14]
+      }
+    },
+    {
+      "topicTitle": "school",
+      "topicCount": "37",
+      "topicSections": "4",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36]
+      }
+    },
+    {
+      "topicTitle": "studying",
+      "topicCount": "37",
+      "topicSections": "4",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36]
+      }
+    },
+    {
+      "topicTitle": "biology",
+      "topicCount": "39",
+      "topicSections": "4",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36, 37, 38]
+      }
+    },
+    {
+      "topicTitle": "anatomy",
+      "topicCount": "39",
+      "topicSections": "4",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36, 37, 38]
+      }
+    },
+    {
+      "topicTitle": "months",
+      "topicCount": "16",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15]
+      }
+    },
+    {
+      "topicTitle": "dates-time",
+      "topicCount": "48",
+      "topicSections": "5",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33, 34],
+        "section 8": [35, 36, 37, 38, 39],
+        "section 9": [40, 41, 42, 43, 44],
+        "section 10": [45, 46, 47]
+      }
+    },
+    {
+      "topicTitle": "days",
+      "topicCount": "12",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11]
+      }
+    },
+    {
+      "topicTitle": "calendar",
+      "topicCount": "34",
+      "topicSections": "4",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11, 12, 13, 14],
+        "section 4": [15, 16, 17, 18, 19],
+        "section 5": [20, 21, 22, 23, 24],
+        "section 6": [25, 26, 27, 28, 29],
+        "section 7": [30, 31, 32, 33]
+      }
+    },
+    {
+      "topicTitle": "weeks",
+      "topicCount": "4",
+      "topicSections": "1",
+      "indices": { "section 1": [0, 1, 2, 3] }
+    },
+    {
+      "topicTitle": "years",
+      "topicCount": "4",
+      "topicSections": "1",
+      "indices": { "section 1": [0, 1, 2, 3] }
+    },
+    {
+      "topicTitle": "days of the week",
+      "topicCount": "7",
+      "topicSections": "1",
+      "indices": { "section 1": [0, 1, 2, 3, 4], "section 2": [5, 6] }
+    },
+    {
+      "topicTitle": "months of the year ",
+      "topicCount": "12",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11]
+      }
+    },
+    {
+      "topicTitle": "months-formal/classic",
+      "topicCount": "12",
+      "topicSections": "2",
+      "indices": {
+        "section 1": [0, 1, 2, 3, 4],
+        "section 2": [5, 6, 7, 8, 9],
+        "section 3": [10, 11]
+      }
+    }
+  ]
+}

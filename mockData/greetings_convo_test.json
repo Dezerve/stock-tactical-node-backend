@@ -1,0 +1,524 @@
+[
+ {
+  "convo_num": "1",
+  "eng_sent_sing": "good morning ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting"],
+  "kiny_sent_sing": "waramutse",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "1",
+  "eng_sent_sing": "good morning ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "1",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "amakuru?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "1",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "2",
+  "eng_sent_sing": "good morning ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting, formal, for elders, and more than one person"],
+  "kiny_sent_sing": "mwaramutse",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "2",
+  "eng_sent_sing": "good morning ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "2",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "amakuru?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "2",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "3",
+  "eng_sent_sing": "good afternoon ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting"],
+  "kiny_sent_sing": "wiriwe",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "3",
+  "eng_sent_sing": "good afternoon ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "wiriwe",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "3",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "amakuru?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "3",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "4",
+  "eng_sent_sing": "good afternoon ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting, formal, for elders, and more than one person"],
+  "kiny_sent_sing": "mwiriwe ",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "4",
+  "eng_sent_sing": "good afternoon ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "4",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "amakuru?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "4",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "5",
+  "eng_sent_sing": "good evening ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting"],
+  "kiny_sent_sing": "wiriweho",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "5",
+  "eng_sent_sing": "good evening ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "5",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "amakuru?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "5",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "6",
+  "eng_sent_sing": "good evening ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting, formal, for elders, and more than one person"],
+  "kiny_sent_sing": "mwiriweho",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "6",
+  "eng_sent_sing": "good evening ",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "6",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "amakuru?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "6",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "7",
+  "eng_sent_sing": "hi!",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting"],
+  "kiny_sent_sing": "bite!",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "7",
+  "eng_sent_sing": "hi!",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "bite!",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "7",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "uraho?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "7",
+  "eng_sent_sing": "I'm well",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "8",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "uraho?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "8",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "8",
+  "eng_sent_sing": "how are you? ",
+  "eng_sent_pl": "",
+  "eng_comments": ["what's new?"],
+  "kiny_sent_sing": "amakuru?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "8",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": ["it's going well"],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "9",
+  "eng_sent_sing": "hi!",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting | are you doing well?"],
+  "kiny_sent_sing": "uraho neza?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "9",
+  "eng_sent_sing": "hi!",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "9",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": ["what's new with you?"],
+  "kiny_sent_sing": "amakuru yawe?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "9",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "10",
+  "eng_sent_sing": "hello!",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting, casual, more than one person"],
+  "kiny_sent_sing": "muraho neza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "10",
+  "eng_sent_sing": "hello!",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "10",
+  "eng_sent_sing": "how are you all?",
+  "eng_sent_pl": "",
+  "eng_comments": ["what's new with you all?"],
+  "kiny_sent_sing": "amakuru yanyu?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "10",
+  "eng_sent_sing": "i'm doing well",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "11",
+  "eng_sent_sing": "hi/hello",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting"],
+  "kiny_sent_sing": "uraho?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "11",
+  "eng_sent_sing": "hi/hello",
+  "eng_sent_pl": "",
+  "eng_comments": ["greeting reply"],
+  "kiny_sent_sing": "yego",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "11",
+  "eng_sent_sing": "how are you?",
+  "eng_sent_pl": "",
+  "eng_comments": ["what's new"],
+  "kiny_sent_sing": "amakuru",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "11",
+  "eng_sent_sing": "fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "11",
+  "eng_sent_sing": "and you? ",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ayawe?",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "11",
+  "eng_sent_sing": "I'm fine, thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "ni meza",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "12",
+  "eng_sent_sing": "hello!",
+  "eng_sent_pl": "",
+  "eng_comments": ["when entering a place"],
+  "kiny_sent_sing": "hodi!",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "12",
+  "eng_sent_sing": "ikaze",
+  "eng_sent_pl": "",
+  "eng_comments": ["welcome (to a place)"],
+  "kiny_sent_sing": "welcome",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "12",
+  "eng_sent_sing": "thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "urakoze",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "13",
+  "eng_sent_sing": "hello!",
+  "eng_sent_pl": "",
+  "eng_comments": ["when entering a plce"],
+  "kiny_sent_sing": "hodi!",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "13",
+  "eng_sent_sing": "ikaze",
+  "eng_sent_pl": "",
+  "eng_comments": ["welcome (to a place)"],
+  "kiny_sent_sing": "welcome",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "13",
+  "eng_sent_sing": "thank you",
+  "eng_sent_pl": "",
+  "eng_comments": ["formal, for elders, and more than one person"],
+  "kiny_sent_sing": "murakoze",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "14",
+  "eng_sent_sing": "hello!",
+  "eng_sent_pl": "",
+  "eng_comments": ["when entering a place"],
+  "kiny_sent_sing": "hodi!",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "14",
+  "eng_sent_sing": "karibu!",
+  "eng_sent_pl": "",
+  "eng_comments": ["welcome (to a place)"],
+  "kiny_sent_sing": "welcome",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "14",
+  "eng_sent_sing": "thank you",
+  "eng_sent_pl": "",
+  "eng_comments": [""],
+  "kiny_sent_sing": "urakoze",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "15",
+  "eng_sent_sing": "hello!",
+  "eng_sent_pl": "",
+  "eng_comments": ["when entering a place"],
+  "kiny_sent_sing": "hodi!",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "15",
+  "eng_sent_sing": "karibu!",
+  "eng_sent_pl": "",
+  "eng_comments": ["welcome (to a place)"],
+  "kiny_sent_sing": "welcome",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ },
+ {
+  "convo_num": "15",
+  "eng_sent_sing": "thank you",
+  "eng_sent_pl": "",
+  "eng_comments": ["formal, for elders, and more than one person"],
+  "kiny_sent_sing": "murakoze",
+  "kiny_sent_pl": "",
+  "kiny_comments": ""
+ }
+]
