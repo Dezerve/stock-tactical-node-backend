@@ -1,0 +1,65 @@
+{
+    "BARCHART_PERCENT_INCREASE_ALL": {
+
+    },
+    "BARCHART_PERCENT_DECLINES_ALL": {
+
+    },
+    "BARCHART_VOLUME_LEADERS_ALL": {
+
+    },
+    "BARCHART_GAP_UP_ALL": {
+
+    },
+    "BARCHART_GAP_DOWN_ALL": {
+
+    },
+    "BARCHART_PRE_MARKET_MOST_ACTIVE_ALL": {
+        "ticker": "Symbol",
+        "company_name": "name",
+        "pre_market_last": "Last(Pre)",
+        "pre_market_change": "Chg(Pre)",
+        "pre_market_change_percent": "%Chg(Pre)",
+        "pre_market_volume": "Vol(Pre)",
+        "five_day_average_volume": "AvgVol",
+        "previous_trading_session_close": "Prev Last",
+        "previous_trading_session_change": "Prev Chg",
+        "previous_trading_session_percent_change": "Prev %Chg",
+        "pre_market_last_update_time": "Time(Pre)",
+        "next_earnings_date": "bc-table-tooltip tooltip",
+        "earnings_release_pre_or_post": "bc-table-tooltip tooltip"
+    },
+    "BARCHART_PRE_MARKET_ADVANCES_ALL": {
+
+    },
+    "BARCHART_PRE_MARKET_GAP_UP_ALL": {
+
+    },
+    "BARCHART_PRE_MARKET_GAP_DOWN_ALL": {
+
+    },
+    "BARCHART_POST_MARKET_MOST_ACTIVE_ALL": {
+        "ticker": "Symbol",
+        "company_name": "name",
+        "post_market_last": "Last(Post)",
+        "post_market_change": "Chg(Post)",
+        "post_market_change_percent": "%Chg(Post)",
+        "post_market_volume": "Vol(Post)",
+        "five_day_average_volume": "AvgVol",
+        "previous_trading_session_close": "Prev Last",
+        "previous_trading_session_change": "Prev Chg",
+        "previous_trading_session_percent_change": "Prev %Chg",
+        "post_market_last_update_time": "Time(Post)",
+        "next_earnings_date": "bc-table-tooltip tooltip",
+        "earnings_release_pre_or_post": "bc-table-tooltip tooltip"
+    },
+    "BARCHART_POST_MARKET_ADVANCES_ALL": {
+
+    },
+    "BARCHART_POST_MARKET_GAP_UP_ALL": {
+
+    },
+    "BARCHART_POST_MARKET_GAP_DOWN_ALL": {
+
+    }
+}
