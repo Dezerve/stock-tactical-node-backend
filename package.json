@@ -34,7 +34,8 @@
     "sqlite3": "^5.1.7",
     "stripe": "^17.5.0",
     "validator": "^13.12.0",
-    "xss-clean": "^0.1.4"
+    "xss-clean": "^0.1.4",
+    "yahoo-finance2": "^2.13.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
