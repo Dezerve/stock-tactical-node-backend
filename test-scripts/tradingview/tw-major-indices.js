@@ -3,10 +3,10 @@ const fs = require("fs");
 const path = require("path");
 
 // URL of the page you want to fetch
-const url = "https://finance.yahoo.com";
+const url = "https://www.tradingview.com/markets/indices/quotes-major/";
 
 // File path where the content will be saved
-const filePath = path.join(__dirname, "stockscan_options_test_page.html");
+const filePath = path.join(__dirname, "tw-major-indices-test-page.html");
 
 // Function to fetch the page and save it to a file
 async function fetchAndSavePage(url, filePath) {
@@ -15,13 +15,16 @@ async function fetchAndSavePage(url, filePath) {
     const response = await axios.get(url, {
       headers: {
         method: "GET",
-        Accept:
+        path: "/markets/indices/quotes-major/",
+        scheme: "https",
+        accept:
           "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-        "Accept-Encoding": "gzip, deflate, br, zstd",
-        "Accept-Language": "en-US,en,q=0.8",
-        "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Gpc": "1",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "accept-language": "en-US,en;q=0.5",
+        "sec-Fetch-Dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "none",
+        "upgrade-insecure-requests": "1",
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
       },
